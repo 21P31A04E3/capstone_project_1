@@ -1,0 +1,296 @@
+.main{
+	height: 3000px;
+	width:1000px;
+	background-color: grey;
+}
+.a{
+	height: 50px;
+	width: 1000px;
+	background-color:whitesmoke;
+	padding-top: 10px;
+}
+#i1{
+	color: white;
+	position: absolute;
+	top:300px;
+	padding-left: 100px;
+
+}
+.x{
+	color: white;
+	position: absolute;
+	top:700px;
+	padding-left: 100px;
+}
+.idi{
+	font-size: 30px;
+	padding-top: 20px;
+
+}
+.n{
+	height: 30px;
+	width: 30px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#a{
+	height: 400px;
+	width: 1000px;
+}
+.ai{
+	height: 400px;
+	width: 1000px;
+}
+.b{
+	height: 200px;
+	width: 1000px;
+	background-color: whitesmoke;
+}
+#b1{
+	height: 200px;
+	width: 250px;
+	margin-left: 100px;
+	float: left;
+	background-color:white;
+}
+#b2{
+	height: 200px;
+	width: 250px;
+	margin-left: 20px;
+	float: left;
+	background-color:white;
+	}
+	.c{
+background-color: lightpink;
+height: 800px;
+width: 1000px;
+	}
+		.back{
+			background-image: url('https://t3.ftcdn.net/jpg/01/18/11/04/240_F_118110467_hZJmBosCuh9Y6UFa2OfAMaCgqt0KyuBV.jpg');
+			height: 400px;
+			width: 1000px;
+			background-size: cover;
+
+		}
+		.ig{
+			height: 250px;
+			width: 250px;
+			margin-top: 250px;
+		  margin-left: 50px;
+		}
+		.ig1{
+			height: 250px;
+			width: 250px;
+			float:left;
+			margin-top: 250px;
+			margin-left:70px;
+			
+		}
+		.ig2{
+			height: 250px;
+			width: 250px;
+			float:left;
+			margin-top:250px;
+			margin-left: 50px;
+			
+		}
+		.c1{
+			height: 200px;
+			width: 1000px;
+			background-color: red;
+		}
+		.c11{
+			height: 150px;
+			width: 250px;
+			background-color: white;
+			float: left;
+			margin-left: 70px;
+		}
+		.c12{
+			height: 150px;
+			width: 250px;
+			background-color: white;
+			float: left;
+			margin-left: 50px;
+		}
+.d{
+	height: 1000px;
+	width: 1000px;
+	background-color:whitesmoke;
+	}
+	#d1{
+		height: 200px;
+		width: 150px;
+		background-color: white;
+		float: left;
+		margin-top: 30px;
+		margin-left: 90px;
+
+	}
+	.di{
+		height: 200px;
+		width: 150px;
+	}
+	#h2{
+		margin-left: 90px;
+	}
+	.p1{
+		color: lightgrey;
+		margin-left: 90px;
+		margin-top: 20px;
+	}
+	.p2{
+		color: lightgrey;
+		margin-left: 90px;
+		margin-top: 0px;
+	}
+	#d2{
+		height: 200px;
+		width: 200px;
+		background-color: white;
+		float: left;
+		margin-top: 30px;
+		margin-left: 20px;
+		
+	}
+	#d3{
+		height: 200px;
+		width: 150px;
+		background-color: white;
+		float: left;
+		margin-top: 20px;
+		margin-left: 90px;
+		
+	}
+	#d4{
+		height: 200px;
+		width: 200px;
+		background-color: white;
+		float: left;
+		margin-top: 20px;
+		margin-left: 20px;
+		
+	}
+.e{
+	height: 200px;
+	width: 1000px;
+	background-color:lightblue;
+	margin-top: 500px;
+	background-image: url('https://img.freepik.com/premium-photo/light-bulb-bright-outstanding-among-lightbulb-white-background-concept-creative-idea-inspire-innovation-think-different-standing-out-from-crowd-3d-rendering-illustration_20693-757.jpg?size=626&ext=jpg&ga=GA1.2.1049194955.1691223158&semt=sph');
+	
+	}
+
+	.e1{
+		height:100px; 
+		width:150px;
+		background-color:transparent;
+		float: left;
+		margin-left: 100px;
+		margin-top: 50px;
+	}
+	.e2{
+		height:100px; 
+		width:150px;
+		background-color:transparent;
+		float: left;
+		margin-left: 70px;
+		margin-top:50px; 
+	}
+	.s1{
+		font-size: 45px;
+		color: white;
+	}
+	.s2{
+		font-size: 10px;
+		color: white;
+	}
+	.g{
+		height: 800px;
+		width: 1000px;
+		background-color: white;
+	}
+	
+.sub{
+			height: 850px;
+			width: 1000px;
+			background: whitesmoke;
+			
+		}
+		.hor{
+		
+			height: 120px;
+			width: 1000px;
+			
+			text-align: left;
+			padding-left: 20px;
+		}
+		.g1{
+			margin-left: 50px;
+			height: 800px;
+			width: 250px;
+			float: left;
+
+		}
+		.g2{
+			height: 800px;
+			width: 250px;
+			float: left;
+			margin-left: 350px;
+			margin-top: -750px;
+
+		}
+		.g3{
+			height: 800px;
+			width: 250px;
+			margin-left: 700px;
+			float: left;
+			margin-top: -850px;
+		}
+		.h{
+			margin-left: 55px;
+			font-size: 40px;
+			font-weight: bold;
+		}
+		.p{
+			margin-left: 55px;
+			margin-top: -5px;
+		}
+		.igo{
+			padding-top: 40px;
+			height: 150px;
+			width: 250px;
+		}
+		hx{
+	
+			font-size: 30px;
+			font-weight: bold;
+			margin-left: -70px;}
+
+		.pop{
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+		.pop1{
+			margin-top: 40px;
+			border-left: 7px solid black;
+			margin-left: 5px;
+		}
+		.igo1{
+
+			padding-top: 20px;
+			height: 180px;
+			width: 250px;
+		}
+		.hx1{
+	
+			font-size: 30px;
+			font-weight: bold;
+			margin-left: -20px;}
+
+	.ei{
+		height: 200px;
+	width: 1000px;
+	}
+	#h2{
+		margin-top: 300px;
+	}
